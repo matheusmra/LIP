@@ -1,3 +1,4 @@
+//Alarme de intruso: crie um sistema de alarme simples no qual um LED acende quando um botão é pressionado e mantém-se aceso até que o botão seja pressionado novamente para desativá-lo
 void setup()
 {
   pinMode(7, INPUT);

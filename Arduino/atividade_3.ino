@@ -1,3 +1,4 @@
+// Simulação de semáforo com botão: crie um semáforo simples com três LEDs representando vermelho, amarelo e verde. Use um botão para simular o botão de pedestres. Quando o botão é pressionado, o semáforo deve mudar para a luz vermelha durante alguns segundos (para o pedestre passar)  antes de voltar ao ciclo normal.
 void setup()
 {
   pinMode(2, INPUT);

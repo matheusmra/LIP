@@ -1,4 +1,4 @@
-
+ // Contador de cliques de botão com LED: faça um circuito que conte quantas vezes um botão é pressionado em 2s e exiba esse número piscando em um LED. 
 const int botaoPin = 2; // Pino do botão
 const int ledPin = 13; // Pino do LED
 
